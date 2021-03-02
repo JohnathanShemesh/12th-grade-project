@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\bin\Debug\projectDal.exe
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\bin\Debug\projectDal.pdb
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\User\Desktop\HighSchoolProject29\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\bin\Debug\projectDal.exe
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\bin\Debug\projectDal.pdb
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\User\Desktop\HighSchoolProject30\projectDal\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
